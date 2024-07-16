@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anthinhN
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Cybersecurity and Information System
+- 🌱 I’m currently learning Cybersecurity and Information Technology
 - 📫 How to reach me tel: 201-240-8956
 
 <!---
